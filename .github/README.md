@@ -10,16 +10,15 @@
 
 ## 📑 Table of Contents
 
-- [🌟 Features](#-features)
-- [🏗️ Tech Stack](#-tech-stack)
-- [🚀 Deployment Status](#-deployment-status)
-- [🚀 Installation & Setup](#-installation--setup)
-- [🎥 How to Run the Application](#-how-to-run-the-application)
-- [🎥 Demo Video](#-demo-video)
-- [👥 Contributors](#-contributors)
-- [📜 License](#-license)
-- [🏆 Acknowledgment](#-acknowledgment)
-
+- [🌟 Features](#features)
+- [🏗️ Tech Stack](#tech-stack)
+- [🚀 Deployment Status](#deployment-status)
+- [🚀 Installation & Setup](#installation--setup)
+- [🎥 How to Run the Application](#how-to-run-the-application)
+- [🎥 Demo Video](#demo-video)
+- [👥 Contributors](#contributors)
+- [📜 License](#license)
+- [🏆 Acknowledgment](#acknowledgment)
 ---
 
 ## 🌟 Features
@@ -118,20 +117,15 @@ Run the development server:
 
 ---
 
-
-<h2 style="text-align: center;">🎥 How to Run the Application</h2>
+<h2 align="center">🎥 How to Run the Application</h2>
 
 <p align="center">
 📌 Watch the video tutorial on setting up and running the application locally:
 </p>
 
-<div style="text-align: center;">
-  <video width="1000" controls>
-    <source src="../Assets/Videos/To Run in Local Machine.mp4" type="video/mp4">
-  </video>
-</div>
+https://github.com/user-attachments/assets/1e2d0a44-5082-4bbf-befa-69772c6d10e8
 
-<h2 style="text-align: center;">🎥 Demo Video</h2>
+<h2 align="center">🎥 Demo Video</h2>
 
 <p align="center">
 📌 Watch the live demo of the Document Summarizer in action:
