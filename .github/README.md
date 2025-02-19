@@ -82,7 +82,13 @@ To experience the complete features, you will need to set up the backend locally
 
 ### 🖥️ 2️⃣ Backend Setup
 
-Navigate to the `backend` directory. Create a virtual environment and install dependencies:
+Navigate to the `backend` directory. 
+
+```sh
+cd backend
+```
+
+Create a virtual environment and install dependencies:
 
 ```sh
  python -m venv venv
