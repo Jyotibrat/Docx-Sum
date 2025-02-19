@@ -10,15 +10,16 @@
 
 ## 📑 Table of Contents
 
-- [🌟 Features](#features)
-- [🏗️ Tech Stack](#tech-stack)
-- [🚀 Deployment Status](#deployment-status)
-- [🚀 Installation & Setup](#installation--setup)
-- [🎥 How to Run the Application](#how-to-run-the-application)
-- [🎥 Demo Video](#demo-video)
-- [👥 Contributors](#contributors)
-- [📜 License](#license)
-- [🏆 Acknowledgment](#acknowledgment)
+- [🌟 Features](#-features)
+- [🏗️ Tech Stack](https://github.com/Jyotibrat/Document-Summarizer?tab=readme-ov-file#%EF%B8%8F-tech-stack)
+- [🚀 Deployment Status](#-deployment-status)
+- [🚀 Installation & Setup](#-installation--setup)
+- [🎥 How to Run the Application](#-how-to-run-the-application)
+- [🎥 Demo Video](#-demo-video)
+- [👥 Contributors](https://github.com/Jyotibrat/Document-Summarizer?tab=readme-ov-file#---contributors)
+- [📜 License](#-license)
+- [🏆 Acknowledgment](#-acknowledgment)
+  
 ---
 
 ## 🌟 Features
