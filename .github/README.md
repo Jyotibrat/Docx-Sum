@@ -118,6 +118,7 @@ Run the development server:
 
 ---
 
+
 <h2 style="text-align: center;">🎥 How to Run the Application</h2>
 
 <p align="center">
@@ -125,7 +126,9 @@ Run the development server:
 </p>
 
 <div style="text-align: center;">
-  <iframe src="https://streamable.com/e/kj65db" width="1000" height="563" frameborder="0" allowfullscreen></iframe>
+  <video width="1000" controls>
+    <source src="../Assets/Videos/To Run in Local Machine.mp4" type="video/mp4">
+  </video>
 </div>
 
 <h2 style="text-align: center;">🎥 Demo Video</h2>
@@ -135,8 +138,12 @@ Run the development server:
 </p>
 
 <div style="text-align: center;">
-  <iframe src="https://streamable.com/e/kj65db" width="1000" height="563" frameborder="0" allowfullscreen></iframe>
+  <video width="1000" controls>
+    <source src="../Assets/Videos/Demo.mp4" type="video/mp4">
+  </video>
 </div>
+
+
 
 ---
 
