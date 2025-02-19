@@ -125,9 +125,7 @@ Run the development server:
 </p>
 
 <div style="text-align: center;">
-  <video width="1000" controls>
-    <source src="../Assets/Videos/To Run in Local Machine.mp4" type="video/mp4">
-  </video>
+  <iframe src="https://streamable.com/e/kj65db" width="1000" height="563" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <h2 style="text-align: center;">🎥 Demo Video</h2>
@@ -137,9 +135,7 @@ Run the development server:
 </p>
 
 <div style="text-align: center;">
-  <video width="1000" controls>
-    <source src="../Assets/Videos/Demo.mp4" type="video/mp4">
-  </video>
+  <iframe src="https://streamable.com/e/kj65db" width="1000" height="563" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
