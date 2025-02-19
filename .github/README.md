@@ -147,16 +147,16 @@ Run the development server:
 </p>
 
 <div align="center">
-  <a href="https://github.com/Jyotibrat">
+  <a href=https://github.com/Akshit7-uni"">
     <img src="./Assets/Contributors/Akshit Github Photo.jpg" alt="Jyotibrat" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
   </a>
-  <a href="https://github.com/Contributor2">
+  <a href="https://github.com/Lucifer-here">
     <img src="./Assets/Contributors/Ansh Github Photo.png" alt="Contributor2" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
   </a>
-  <a href="https://github.com/Contributor3">
+  <a href="https://github.com/Auth0r-C0dez">
     <img src="./Assets/Contributors/Rana Github Photo.png" alt="Contributor3" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
   </a>
-  <a href="https://github.com/Contributor4">
+  <a href="https://github.com/Jyotibrat">
     <img src="./Assets/Contributors/Bindupautra Github Photo.jpg" alt="Contributor4" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
   </a>
 </div>
