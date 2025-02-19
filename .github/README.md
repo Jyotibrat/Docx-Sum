@@ -137,13 +137,7 @@ Run the development server:
 📌 Watch the live demo of the Document Summarizer in action:
 </p>
 
-<div style="text-align: center;">
-  <video width="1000" controls>
-    <source src="../Assets/Videos/Demo.mp4" type="video/mp4">
-  </video>
-</div>
-
-
+https://github.com/user-attachments/assets/8454adb5-478b-4145-8d2c-2a9bd9a55d27
 
 ---
 
