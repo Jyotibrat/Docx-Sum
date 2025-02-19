@@ -6,6 +6,5 @@ export default defineConfig({
   server: {
     port: 5173,
     host: true
-  },
-  base: './src/frontend', // ✅ This fixes the asset path issue on Netlify
+  }
 });
