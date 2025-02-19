@@ -57,6 +57,63 @@
 
 ---
 
+
+## 📂 Project Structure
+
+```
+Document-Summarizer/
+│
+├───.gitattributes
+├───.gitignore
+├───eslint.config.js
+├───index.html
+├───LICENSE
+├───package-lock.json
+├───package.json
+├───postcss.config.js
+├───tailwind.config.js
+├───tsconfig.app.json
+├───tsconfig.json
+├───tsconfig.node.json
+├───vite.config.ts
+│
+├───.github/
+│    └───README.md
+│
+├───Archive/
+│   ├───Document Summarizer.ipynb
+│   ├───Document_Summarizer_Prototype.ipynb
+│   └───summarizer_web.ipynb
+│
+├───Assets/
+│   ├───Contributors/
+│   │   ├───Akshit Github Photo.png
+│   │   ├───Ansh Github Photo.png
+│   │   ├───Bindupautra Github Photo.png
+│   │   └───Rana Github Photo.png
+│   │
+│   └───Videos/
+│       ├───Demo.mp4
+│       └───To Run in Local Machine.mp4
+│
+├───backend/
+│   ├───.env
+│   ├───app.py
+│   ├───Readme.md
+│   └───requirements.txt
+│
+├───NoteBooks/
+│   └───Summarizer.ipynb
+│
+└───src/
+    ├───App.tsx
+    ├───index.css
+    ├───main.tsx
+    └───vite-env.d.ts
+```
+
+---
+
 ## 🚀 Deployment Status
 
 ### 🔹 Frontend Deployment
