@@ -148,7 +148,7 @@ Run the development server:
 
 <div align="center">
   <a href=https://github.com/Akshit7-uni"">
-    <img src="../Assets/Contributors/Akshit Github Photo.jpg" alt="Akshit Joshi" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
+    <img src="../Assets/Contributors/Akshit Github Photo.png" alt="Akshit Joshi" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
   </a>
   <a href="https://github.com/Lucifer-here">
     <img src="../Assets/Contributors/Ansh Github Photo.png" alt="Ansh Gaur" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
@@ -157,7 +157,7 @@ Run the development server:
     <img src="../Assets/Contributors/Rana Github Photo.png" alt="Rana Talukdar" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
   </a>
   <a href="https://github.com/Jyotibrat">
-    <img src="../Assets/Contributors/Bindupautra Github Photo.jpg" alt="Bindupautra Jyotibrat" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
+    <img src="../Assets/Contributors/Bindupautra Github Photo.png" alt="Bindupautra Jyotibrat" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
   </a>
 </div>
 
