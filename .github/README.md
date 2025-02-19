@@ -120,7 +120,7 @@ Run the development server:
 
 <div style="text-align: center;">
   <video width="1000" controls>
-    <source src="./Assets/Videos/To Run in Local Machine.mp4" type="video/mp4">
+    <source src="../Assets/Videos/To Run in Local Machine.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -132,7 +132,7 @@ Run the development server:
 
 <div style="text-align: center;">
   <video width="1000" controls>
-    <source src="./Assets/Videos/Demo.mp4" type="video/mp4">
+    <source src="../Assets/Videos/Demo.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -148,16 +148,16 @@ Run the development server:
 
 <div align="center">
   <a href=https://github.com/Akshit7-uni"">
-    <img src="./Assets/Contributors/Akshit Github Photo.jpg" alt="Jyotibrat" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
+    <img src="../Assets/Contributors/Akshit Github Photo.jpg" alt="Akshit Joshi" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
   </a>
   <a href="https://github.com/Lucifer-here">
-    <img src="./Assets/Contributors/Ansh Github Photo.png" alt="Contributor2" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
+    <img src="../Assets/Contributors/Ansh Github Photo.png" alt="Ansh Gaur" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
   </a>
   <a href="https://github.com/Auth0r-C0dez">
-    <img src="./Assets/Contributors/Rana Github Photo.png" alt="Contributor3" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
+    <img src="../Assets/Contributors/Rana Github Photo.png" alt="Rana Talukdar" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
   </a>
   <a href="https://github.com/Jyotibrat">
-    <img src="./Assets/Contributors/Bindupautra Github Photo.jpg" alt="Contributor4" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
+    <img src="../Assets/Contributors/Bindupautra Github Photo.jpg" alt="Bindupautra Jyotibrat" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
   </a>
 </div>
 
