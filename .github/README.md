@@ -83,7 +83,8 @@ Document-Summarizer/
 ├───Archive/
 │   ├───Document Summarizer.ipynb
 │   ├───Document_Summarizer_Prototype.ipynb
-│   └───summarizer_web.ipynb
+│   ├───summarizer_web.ipynb
+│   └───README.md
 │
 ├───Assets/
 │   ├───Contributors/
@@ -92,24 +93,29 @@ Document-Summarizer/
 │   │   ├───Bindupautra Github Photo.png
 │   │   └───Rana Github Photo.png
 │   │
-│   └───Videos/
-│       ├───Demo.mp4
-│       └───To Run in Local Machine.mp4
+│   ├───Videos/
+│   │   ├───Demo.mp4
+│   │   └───To Run in Local Machine.mp4
+│   │
+│   └───README.md
 │
 ├───backend/
 │   ├───.env
 │   ├───app.py
 │   ├───Readme.md
-│   └───requirements.txt
+│   ├───requirements.txt
+│   └───README.md
 │
 ├───NoteBooks/
-│   └───Summarizer.ipynb
+│   ├───Summarizer.ipynb
+│   └───README.md
 │
 └───src/
     ├───App.tsx
     ├───index.css
     ├───main.tsx
-    └───vite-env.d.ts
+    ├───vite-env.d.ts
+    └───README.md
 ```
 
 ---
@@ -136,6 +142,26 @@ To experience the complete features, you will need to set up the backend locally
  git clone https://github.com/Jyotibrat/Document-Summarizer.git
  cd document-summarizer
 ```
+
+### 🔑 2️⃣ Obtain a Gemini API Key
+
+To use the **Gemini 1.5 Flash API** for question answering, you need to obtain an API key. Follow these steps:
+
+1. **Sign Up for Gemini API**:
+   - Go to the [Gemini API website](https://aistudio.google.com/) and sign up for an account.
+   - Follow the instructions to create a new API key.
+
+2. **Set Up the API Key**:
+   - Navigate to the `backend` directory:
+     ```sh
+     cd backend
+     ```
+   - Open the `.env` file in a text editor:
+   - Add your Gemini API key to the `.env` file:
+     ```env
+     GEMINI_API_KEY='your_api_key_here'
+     ```
+   - Save and close the file.
 
 ### 🖥️ 2️⃣ Backend Setup
 
