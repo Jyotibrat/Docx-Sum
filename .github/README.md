@@ -12,6 +12,7 @@
 
 - [🌟 Features](#-features)
 - [🏗️ Tech Stack](https://github.com/Jyotibrat/Document-Summarizer?tab=readme-ov-file#%EF%B8%8F-tech-stack)
+- [📂 Project Structure](#-project-structure)
 - [🚀 Deployment Status](#-deployment-status)
 - [🚀 Installation & Setup](#-installation--setup)
 - [🎥 How to Run the Application](#-how-to-run-the-application)
