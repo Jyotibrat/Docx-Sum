@@ -15,6 +15,7 @@
 - [📂 Project Structure](#-project-structure)
 - [🚀 Deployment Status](#-deployment-status)
 - [🚀 Installation & Setup](#-installation--setup)
+- [🎨 Figma Design](#-figma-design)
 - [🎥 How to Run the Application](#-how-to-run-the-application)
 - [🎥 Demo Video](#-demo-video)
 - [👥 Contributors](https://github.com/Jyotibrat/Document-Summarizer?tab=readme-ov-file#---contributors)
@@ -199,6 +200,12 @@ Run the development server:
 ```sh
  npm run dev
 ```
+
+## 🎨 Figma Design
+
+The UI/UX design for the **Document Summarizer** was created using **Figma**. You can view the design and interact with the prototype using the link below:
+
+👉 [**Figma Design**](https://www.figma.com/design/sIjJUrWDHGoWYPLhhaT4Fl/Document-Summarizer?node-id=0-1&p=f&t=uNUtq9QVOepdB6NT-0)
 
 ---
 
