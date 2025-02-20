@@ -82,8 +82,8 @@ Document-Summarizer/
 │    └───README.md
 │
 ├───Archive/
-│   ├───Document Summarizer.ipynb
-│   ├───Document_Summarizer_Prototype.ipynb
+│   ├───Document_Summarizer_first_prototype.ipynb
+│   ├───Document_Summarizer_second_prototype.ipynb
 │   ├───summarizer_web.ipynb
 │   └───README.md
 │
