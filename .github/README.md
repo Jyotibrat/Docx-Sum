@@ -236,8 +236,8 @@ https://github.com/user-attachments/assets/8454adb5-478b-4145-8d2c-2a9bd9a55d27
 </p>
 
 <div align="center">
-  <a href=https://github.com/Akshit7-uni"">
-    <img src="../Assets/Contributors/Akshit Github Photo.png" alt="Akshit Joshi" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
+  <a href="https://github.com/Arunim-Gogoi">
+    <img src="../Assets/Contributors/Arunim Github Photo.png" alt="Akshit Joshi" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
   </a>
   <a href="https://github.com/Lucifer-here">
     <img src="../Assets/Contributors/Ansh Github Photo.png" alt="Ansh Gaur" style="border-radius: 50%; margin: 5px; width: 100px; height: 100px;">
