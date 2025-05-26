@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="../Assets/document_summarization_logo.png" alt="Project Logo" width="1000">
+</div>
+
 <h1 align="center">
   📄 Document Summarizer
 </h1>
@@ -99,6 +103,7 @@ Document-Summarizer/
 │   │   ├───Demo.mp4
 │   │   └───To Run in Local Machine.mp4
 │   │
+│   ├───document_summarization_logo.png
 │   └───README.md
 │
 ├───backend/
@@ -110,6 +115,10 @@ Document-Summarizer/
 │
 ├───NoteBooks/
 │   ├───Summarizer.ipynb
+│   └───README.md
+│
+├───public/
+│   ├───favicon.ico
 │   └───README.md
 │
 └───src/
