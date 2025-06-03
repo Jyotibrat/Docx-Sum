@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  📄 Document Summarizer
+  📄 Docx Sum
 </h1>
 
 <p align="center">
