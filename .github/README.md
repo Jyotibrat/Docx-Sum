@@ -265,7 +265,7 @@ https://github.com/user-attachments/assets/8454adb5-478b-4145-8d2c-2a9bd9a55d27
 
 ### 🔹 Licensing Details
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/Jyotibrat/Docx-Sum/blob/main/LICENSE) file for details.
 
 ---
 
