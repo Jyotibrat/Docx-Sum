@@ -1,2 +1,22 @@
 Assets/Videos/Demo.mp4 filter=lfs diff=lfs merge=lfs -text
 Assets/Videos/To[[:space:]]Run[[:space:]]in[[:space:]]Local[[:space:]]Machine.mp4 filter=lfs diff=lfs merge=lfs -text
+
+* text=auto
+
+.github/ export-ignore
+Archive/ export-ignore
+Assets/ export-ignore
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+
+*.ipynb diff=jupyternotebook
+
+# Default: exclude all Jupyter notebooks
+*.ipynb linguist-documentation
+
+# Then specifically include notebooks from backend folder
+NoteBooks/*.ipynb -linguist-documentation
+NoteBooks/**/*.ipynb -linguist-documentation
